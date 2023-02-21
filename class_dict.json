@@ -1,0 +1,23 @@
+{
+    "0": {"abbreviations": "ABE", "class_name": "Abnormal eosinophil"},
+     "1": {"abbreviations": "ART", "class_name": "Artefact"},
+     "2": {"abbreviations": "BAS", "class_name": "Basophil"},
+     "3": {"abbreviations": "BLA", "class_name": "Blast"},
+     "4": {"abbreviations": "EBO", "class_name": "Erythroblast"},
+     "5": {"abbreviations": "EOS", "class_name": "Eosinophil"},
+     "6": {"abbreviations": "FGC", "class_name": "Faggott cell"},
+     "7": {"abbreviations": "HAC", "class_name": "Hairy cell"},
+     "8": {"abbreviations": "KSC", "class_name": "Smudge cell"},
+     "9": {"abbreviations": "LYI", "class_name": "Immature lymphocyte"},
+     "10": {"abbreviations": "LYT", "class_name": "Lymphocyte"},
+     "11": {"abbreviations": "MMZ", "class_name": "Metamyelocyte"},
+     "12": {"abbreviations": "MON", "class_name": "Monocyte"},
+     "13": {"abbreviations": "MYB", "class_name": "Myelocyte"},
+     "14": {"abbreviations": "NGB", "class_name": "Band neutrophil"},
+     "15": {"abbreviations": "NGS", "class_name": "Segmented neutrophil"},
+     "16": {"abbreviations": "NIF", "class_name": "Not identifiable"},
+     "17": {"abbreviations": "OTH", "class_name": "Other cell"},
+     "18": {"abbreviations": "PEB", "class_name": "Proerythroblast"},
+     "19": {"abbreviations": "PLM", "class_name": "Plasma cell"},
+     "20": {"abbreviations": "PMO", "class_name": "Promyelocyte"}
+}
