@@ -16,3 +16,5 @@ ref.txt
 test.ipynb
 training.ipynb
 testing_models.ipynb
+test_*
+exp_results
